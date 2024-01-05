@@ -10,3 +10,4 @@ supra_validator = { local = "../supra_validator" }
 [addresses]
 sui = "0x2"
 supra_holder = "0x2fdff17b86e34ab722c8ba5e63f0da070d9a4163705b3fdc6a95802cab40a72a"
+supra_validator = "0x277f90d256d1015a78cad646db091bec451c5bbab834b9fb70bace7885b5c698"
