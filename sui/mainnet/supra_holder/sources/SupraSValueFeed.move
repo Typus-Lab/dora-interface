@@ -1,4 +1,4 @@
-module supra_holder::SupraSValueFeed {
+module SupraOracle::SupraSValueFeed {
     struct OwnerCap has key {
         id: 0x2::object::UID,
     }
